@@ -1,0 +1,125 @@
+{
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "search": "Search",
+    "filter": "Filter",
+    "loading": "Loading...",
+    "noData": "No data available",
+    "error": "Error",
+    "success": "Success",
+    "actions": "Actions",
+    "back": "Back",
+    "next": "Next",
+    "confirm": "Confirm"
+  },
+  "header": {
+    "title": "Inventory Pro",
+    "search": "Search",
+    "alerts": "Alerts",
+    "account": "Account",
+    "logout": "Logout"
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "stockItems": "Stock Items",
+    "categories": "Categories",
+    "storageLocations": "Storage Locations",
+    "recipes": "Recipes",
+    "suppliers": "Suppliers",
+    "purchaseOrders": "Purchase Orders",
+    "stockCounts": "Stock Counts",
+    "waste": "Waste",
+    "reports": "Reports",
+    "alerts": "Alerts",
+    "settings": "Settings",
+    "foodSafety": "Food Safety",
+    "prepLists": "Prep Lists"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "organizationName": "Organization Name",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "stockHealth": "Stock Health",
+    "totalItems": "Total Items",
+    "lowStock": "Low Stock",
+    "outOfStock": "Out of Stock",
+    "belowPar": "Below Par",
+    "overstock": "Overstock",
+    "recentAlerts": "Recent Alerts",
+    "stockValue": "Stock Value",
+    "quickActions": "Quick Actions"
+  },
+  "stockItems": {
+    "title": "Stock Items",
+    "add": "Add Stock Item",
+    "edit": "Edit Stock Item",
+    "name": "Name",
+    "sku": "SKU",
+    "category": "Category",
+    "quantity": "Quantity",
+    "unit": "Unit",
+    "parLevel": "Par Level",
+    "minThreshold": "Minimum Threshold",
+    "costPrice": "Cost Price",
+    "supplier": "Supplier",
+    "barcode": "Barcode",
+    "status": "Status",
+    "inStock": "In Stock",
+    "lowStock": "Low Stock",
+    "outOfStock": "Out of Stock",
+    "overstock": "Overstock",
+    "adjust": "Adjust Stock",
+    "movements": "Stock Movements"
+  },
+  "categories": {
+    "title": "Categories",
+    "add": "Add Category",
+    "edit": "Edit Category",
+    "name": "Name",
+    "parent": "Parent Category"
+  },
+  "storageLocations": {
+    "title": "Storage Locations",
+    "add": "Add Storage Location",
+    "edit": "Edit Storage Location",
+    "name": "Name",
+    "type": "Type",
+    "description": "Description"
+  },
+  "suppliers": {
+    "title": "Suppliers",
+    "add": "Add Supplier",
+    "edit": "Edit Supplier",
+    "name": "Name",
+    "contact": "Contact",
+    "email": "Email",
+    "phone": "Phone"
+  },
+  "alerts": {
+    "title": "Alerts",
+    "lowStock": "Low Stock",
+    "outOfStock": "Out of Stock",
+    "expiring": "Expiring Items",
+    "markRead": "Mark as Read"
+  },
+  "settings": {
+    "title": "Settings",
+    "general": "General",
+    "organization": "Organization",
+    "users": "Users"
+  }
+}
