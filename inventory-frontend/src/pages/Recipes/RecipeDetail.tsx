@@ -60,7 +60,7 @@ export const RecipeDetail: React.FC = () => {
     );
   }
 
-  const displayName = menuItemNameFallback || recipe?.menuItemName ?? 'Recipe';
+  const displayName = (menuItemNameFallback || recipe?.menuItemName) ?? 'Recipe';
   const sellingPrice = recipe?.sellingPrice ?? 0;
   const totalCost = recipe?.totalCost ?? recipe?.totalRecipeCost ?? 0;
   const foodCostPct = sellingPrice > 0 ? (totalCost / sellingPrice) * 100 : null;
